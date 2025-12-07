@@ -1,18 +1,49 @@
-# Free CORS Proxy for Open Source Projects
+System Info Collector
+🚀 Быстрый старт
+System Info Collector — профессиональная утилита для сбора системной информации Windows с генерацией современных HTML-отчетов.
 
-We are providing our [CORS proxy](https://corsfix.com) for free for open source projects. This proxy is designed to help developers bypass CORS restrictions when working with APIs and web applications.
+📦 Установка за 3 шага:
+Установите Node.js с официального сайта
 
-```js
-fetch("https://proxy.corsfix.com/?https://example.com");
-```
+Скачайте system_info.js из репозитория
 
-To add your project, please complete this form:
-[Add Project](https://github.com/corsfix/free-cors-proxy/issues/new?template=add-project.yml)
+Запустите в командной строке:
 
-Or, alternatively you can email us at rey@corsfix.com.
+cmd node system_info.js
 
-You will get access equivalent to one of our [premium plans](https://corsfix.com/pricing) for your account.
+✨ Основные возможности:
+📊 Полный сбор системной информации
 
-## Learn More About Corsfix
+🖥️ Анализ аппаратного обеспечения
 
-Visit [corsfix.com](https://corsfix.com) to explore the features and see how it helps you fix CORS errors.
+🌐 Диагностика сетевых подключений
+
+💾 Мониторинг дискового пространства
+
+📄 Профессиональные HTML-отчеты
+
+🇷🇺 🇺🇸 Русский/английский интерфейсы
+
+🎯 Умное склонение слов
+
+🎮 Использование:
+
+cmd
+# Полный сбор и отчет
+Выберите опцию 1 в меню
+
+# Быстрый просмотр
+Выберите опцию 3 в меню
+
+# Открыть последний отчет
+Выберите опцию 2 в меню
+📁 Структура проекта:
+
+text
+system_info.js    # Основной файл
+reports/          # Папка с отчетами (создается автоматически)
+Лицензия:
+MIT License - свободное использование и модификация
+
+🎯 Простой, мощный, эффективный инструмент для анализа систем Windows!
+
